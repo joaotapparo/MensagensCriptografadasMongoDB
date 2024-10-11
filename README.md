@@ -1,6 +1,6 @@
 ### Versão do Python: v3.13
 ### Versão do pip: v24.2  
-
+##
 ### Dependências necessárias:   
 #### pip install pymongo
 #### pip install pymongo cryptography   
