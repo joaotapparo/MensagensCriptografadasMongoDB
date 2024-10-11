@@ -2,6 +2,7 @@
 ### Versão do pip: v24.2  
 
 ### Dependências necessárias:   
+#### pip install pymongo
 #### pip install pymongo cryptography   
 
 ## Para que serve esse programa?   
@@ -22,6 +23,8 @@ estejam corretas, serão exibidas as mensagens enviadas a ele:
 ![image](https://github.com/user-attachments/assets/ace6150f-12b7-41ab-a514-433f7a7e9258)   
 ### Opção 3 (Sair)   
 Caso o usuário deseje sair do programa, basta selecionar a opção 3 e o programa fechará:   
+![image](https://github.com/user-attachments/assets/00941c7d-3414-495e-8093-3496013d4dd0)
+
 
 
 
